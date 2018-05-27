@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block head_title %} Task Details | {{ block.super }}  {% endblock head_title %}
+
+{% block content %}
+
+
+<h1> {{object.number}} - {{object.name}} </h1>
+<i><a href="{{object.workorder.get_absolute_url}}">Back to Work Order</a></i>
+<hr />
+
+{% if form.errors.non_field_errors %}
+{{form.errors}}
+{% endif %}
+
+
+<form method="POST"> {% csrf_token %}
+	{{ form.as_p }}
+	<button type='submit'>Save</button>
+</form>
+
+{% endblock %}

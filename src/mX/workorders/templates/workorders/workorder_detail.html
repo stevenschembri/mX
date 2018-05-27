@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block head_title %} Work Order Details | {{ block.super }}  {% endblock head_title %}
+
+{% block content %}
+
+
+<h1> {{object.number}} </h1>
+<i><a href="{% url "workorders:list" %}">Back to Work Order List</a></i> <br>
+<a href="{% url "workorders:add-task" object.number%}">Open Task</a>
+
+<hr />
+
+<ul>
+	{% for task in object.task_set.all %}
+	<li><a href="{{task.get_absolute_url}}">{{task.number}} | {{task.name}}</a></li>
+	{% endfor%}
+</ul>
+
+{% endblock %}

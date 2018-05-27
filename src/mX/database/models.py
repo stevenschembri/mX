@@ -17,6 +17,7 @@ class Customer(models.Model):
 # Aircraft Type
 class AircraftType(models.Model):
 	name 				= models.CharField(max_length = 100, blank = False, null = False)
+	official_designation= models.CharField(max_length = 100, blank = True, null = True)
 	type_certificate	= models.CharField(max_length = 100, blank = True, null = True)
 
 	def __str__(self):

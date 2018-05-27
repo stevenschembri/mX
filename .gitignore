@@ -1,0 +1,9 @@
+mX/db.sqlite3
+.Python
+bin/
+include/
+lib/
+pip-selfcheck.json
+src/mX/database/migrations
+src/mX/workorders/migrations/
+*.pyc

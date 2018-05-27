@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang=en>
+
+<head>
+<title>{%block head_title%} mX {%endblock head_title%} </title>
+</head>
+
+{% include 'snippets/css.html' %}
+
+<body>
+
+<div class="container">
+
+	<h1>mX MRO</h1>
+	
+	{% include 'snippets/nav.html' %}
+	<hr />
+	<div class="containter">
+		{% block content %} 
+		{% endblock content %}
+	</div>
+</div>
+
+</body>
+
+ {% include 'snippets/js.html' %}
+
+</html>
+ 

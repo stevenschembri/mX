@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block head_title %} Work Orders | {{ block.super }}  {% endblock head_title %}
+
+{% block content %}
+
+<h1>Work Orders <small> </h1>
+
+<div>
+	Stations : <a href="{%url "workorders:list"%} "><span class="badge badge-pill badge-dark">All </span></a>
+	{% for station in stations %}
+	<a href="{%url "workorders:list"%}{{station.code}}"><span class="badge badge-pill badge-dark"> {{station.name}} </span></a>
+	{% endfor %}
+</div>
+<a href="{% url "workorders:create" %}">Open Work Order</a>
+<hr/>
+
+<ul>
+	{% for wo in object_list %}
+	<li> <a href="{{ wo.get_absolute_url }}">{{wo.number}} | {{wo.aircraft}} | {{wo.date_opened|date:"d/m/Y" }} </a> </li>
+	{% endfor %}
+</ul>
+
+
+{% endblock %}
