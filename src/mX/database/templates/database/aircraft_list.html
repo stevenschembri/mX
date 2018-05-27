@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block head_title %} Aircraft | {{ block.super }}  {% endblock head_title %}
+
+{% block content %}
+
+<h1>Aircraft<small> </h1>
+<a href="{%url "database:aircraft-add" %}">Add Aircraft</a> <br />
+
+<ul>
+	{% for aircraft in object_list %}
+	<li> <a href="{{aircraft.get_absolute_url}}">{{aircraft.registration}} </a> </li>
+	{% endfor %}
+</ul>
+
+
+{% endblock %}

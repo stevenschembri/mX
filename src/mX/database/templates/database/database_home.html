@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+
+{%block head_title%} Database Home || {{block.super}} {%endblock head_title%} </title>
+
+
+{% block content %}
+
+<h1>Database</h1>
+
+<hr/>
+
+<ul>
+	<li><a href="{% url "database:customer-list" %}">Customer Information</a></li>
+	<li> <a href="{% url "database:aircraft-list" %}">Aircraft Information</a></li>
+	<li>Standard Checks</li>
+	<li>Company Data</li>
+
+</ul>
+
+{% endblock content %}

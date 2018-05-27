@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block head_title %} Customers | {{ block.super }}  {% endblock head_title %}
+
+{% block content %}
+
+<h1>Customers<small> </h1>
+<a href="{%url "database:customer-add" %}">Add Customer</a> <br />
+
+<ul>
+	{% for customer in object_list %}
+	<li> <a href="{{customer.get_absolute_url}}">{{customer.name}} </a> </li>
+	{% endfor %}
+</ul>
+
+
+{% endblock %}

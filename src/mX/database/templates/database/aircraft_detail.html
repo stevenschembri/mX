@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block head_title %} Aircraft Details | {{ block.super }}  {% endblock head_title %}
+
+{% block content %}
+
+
+<h1> Aircraft Details - {{object.registration }} </h1>
+<i><a href="{% url "database:aircraft-list" %}">Back to Aircraft List</a></i>
+
+<hr />
+
+<b> Registration:	</b>	{{object.registration}} <br />
+<b> Type: 			</b>	{{object.aircraft_type}} <br />
+<b> Serial Number: 	</b>	{{object.serial_number}} <br />
+<b> Customer: 		</b>	<a href="{{object.customer.get_absolute_url}}">{{object.customer.name}} </a> <br />
+<b> Notes: 			</b>	{{object.notes}} <br />
+
+{% endblock %}
