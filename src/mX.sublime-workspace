@@ -1,0 +1,1215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Res",
+				"RestaurantLocationQuerySet〔class〕"
+			],
+			[
+				"Restaura",
+				"RestaurantLocationManager〔class〕"
+			],
+			[
+				"margin",
+				"margin-bottom: 〔property〕"
+			],
+			[
+				"bac",
+				"background-color: 〔property〕"
+			],
+			[
+				"end",
+				"endfor"
+			],
+			[
+				"get_o",
+				"get_object_or_404〔module〕"
+			],
+			[
+				"login_",
+				"login_url"
+			],
+			[
+				"Rest",
+				"RestaurantCreateView〔class〕"
+			],
+			[
+				"valida",
+				"validate_category"
+			],
+			[
+				"Vali",
+				"ValidationError"
+			],
+			[
+				"Restaurant",
+				"RestaurantCreateForm〔module〕"
+			],
+			[
+				"uni",
+				"unique_slug_generator〔module〕"
+			],
+			[
+				"rest",
+				"rest_id〔variable〕"
+			],
+			[
+				"getob",
+				"get_object_or_404〔module〕"
+			],
+			[
+				"get_cont",
+				"get_context_data"
+			],
+			[
+				"head",
+				"head_title"
+			],
+			[
+				"template",
+				"template_name"
+			],
+			[
+				"cont",
+				"context\tget_context_data"
+			],
+			[
+				"conta",
+				"contact.html"
+			],
+			[
+				"Mas",
+				"MasterTask〔class〕"
+			],
+			[
+				"Par",
+				"PartBooking"
+			],
+			[
+				"P",
+				"PartBooking〔class〕"
+			],
+			[
+				"Work",
+				"Workorder〔class〕"
+			],
+			[
+				"Master",
+				"MasterTask〔module〕"
+			],
+			[
+				"MA",
+				"MasterTask〔class〕"
+			],
+			[
+				"Aircraf",
+				"AircraftType〔class〕"
+			],
+			[
+				"fo",
+				"forRoot\tmethod"
+			],
+			[
+				"m",
+				"myData\tmethod"
+			],
+			[
+				"title",
+				"titleStyle\tproperty"
+			],
+			[
+				"button",
+				"button\tTag"
+			],
+			[
+				"crsf",
+				"crsf_exempt"
+			],
+			[
+				"Snippe",
+				"SnippetSerializer〔module〕"
+			],
+			[
+				"Sni",
+				"SnippetSerializer〔module〕"
+			],
+			[
+				"Snipp",
+				"SnippetSerializer〔class〕"
+			],
+			[
+				"Json",
+				"JSONParser〔class〕"
+			],
+			[
+				"validated",
+				"validated_data"
+			],
+			[
+				"S",
+				"STYLE_CHOICES〔variable〕"
+			],
+			[
+				"get_all",
+				"get_all_styles〔module〕"
+			],
+			[
+				"User",
+				"UserFormView〔module〕"
+			],
+			[
+				"pass",
+				"password〔variable〕"
+			],
+			[
+				"user",
+				"username〔variable〕"
+			],
+			[
+				"Mod",
+				"ModelForm\tModelForm"
+			],
+			[
+				"$reso",
+				"$rootScopeProvider\tAngularJS"
+			],
+			[
+				"s",
+				"scramble_uploaded_filename"
+			],
+			[
+				"UploadI",
+				"UploadImageSerializer"
+			],
+			[
+				"HttpRes",
+				"HttpResponseRedirect"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"app",
+				"app.routing\tscript"
+			],
+			[
+				"pro",
+				"providers\tproperty"
+			],
+			[
+				"us",
+				"user.component.ts"
+			],
+			[
+				"Twee",
+				"TweetService\talias"
+			],
+			[
+				"Tw",
+				"TweetService\talias"
+			],
+			[
+				"twe",
+				"tweets.service\tscript"
+			],
+			[
+				"Elem",
+				"ElementRef\talias"
+			],
+			[
+				"cour",
+				"course.service\tscript"
+			],
+			[
+				"Date",
+				"DateInput"
+			],
+			[
+				"re",
+				"rectification"
+			],
+			[
+				"Wor",
+				"Workorder"
+			],
+			[
+				"tex",
+				"TextField"
+			],
+			[
+				"work",
+				"Workorder"
+			],
+			[
+				"disp",
+				"displayPanel"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"fon-s",
+				"font-style"
+			],
+			[
+				"redirec",
+				"redirect_to"
+			],
+			[
+				"inclu",
+				"include"
+			],
+			[
+				"get_define",
+				"get_defined_vars"
+			],
+			[
+				"sub",
+				"subt_result"
+			],
+			[
+				"res",
+				"result1"
+			],
+			[
+				"say",
+				"say_hello_to"
+			],
+			[
+				"att",
+				"attr_nice"
+			],
+			[
+				"chapter",
+				"\\chapter*{title}\tlatex-document"
+			],
+			[
+				"subsub",
+				"\\subsubsection*{title}\tlatex-document"
+			],
+			[
+				"delta",
+				"\\Delta\tlatex-mathsymbols"
+			],
+			[
+				"over",
+				"\\overline{text}\tlatex-document"
+			],
+			[
+				"incd",
+				"\\includegraphics[options]{name}\tlatex-document"
+			],
+			[
+				"includ",
+				"\\includegraphics[options]{name}\tlatex-document"
+			],
+			[
+				"subsu",
+				"\\subsubsection*{title}\tlatex-document"
+			],
+			[
+				"vps",
+				"\\vspace*{length}\tlatex-document"
+			],
+			[
+				"roman",
+				"\\roman{counter}\tlatex-document"
+			],
+			[
+				"F",
+				"FILENAME2"
+			],
+			[
+				"N",
+				"NUMBER2"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"hrule",
+				"\\hrulefill\ttex"
+			],
+			[
+				"foo",
+				"\\footnote\ttex"
+			],
+			[
+				"quad",
+				"\\qquad\ttex"
+			],
+			[
+				"gauss",
+				"Gauss-Seidel"
+			],
+			[
+				"Value",
+				"ValueError"
+			],
+			[
+				"Gauss",
+				"Gauss-Seidel"
+			],
+			[
+				"pl",
+				"plotfile"
+			],
+			[
+				"string",
+				"string_length"
+			],
+			[
+				"T_",
+				"T_fahrenheit"
+			],
+			[
+				"M",
+				"MAXTEMP"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"n",
+				"n-1"
+			],
+			[
+				"plot_",
+				"plot_wireframe"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"de",
+				"debt"
+			],
+			[
+				"c",
+				"celsius"
+			],
+			[
+				"docum",
+				"documentclass"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"Mar",
+				"margin-right"
+			],
+			[
+				"Marg",
+				"margin-left"
+			],
+			[
+				"Bakc",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"livereload.js",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"live",
+				"LiveReload: Help"
+			],
+			[
+				"liver",
+				"LiveReload: Self test"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"brower",
+				"Browser Integration: Reload"
+			],
+			[
+				"package de",
+				"Package Control: Disable Package"
+			],
+			[
+				"browser",
+				"Browser Integration: Reload"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"c",
+				"Color Picker"
+			],
+			[
+				"package control",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"djan",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"lower case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"django",
+				"Django: Check"
+			],
+			[
+				"json ",
+				"Set Syntax: JSON"
+			],
+			[
+				"syn ang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"syn angul",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: d",
+				"Snippet: datefield"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"outline",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"set sy\tphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"case ",
+				"Convert Case: Lower Case"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"title c",
+				"Convert Case: Title Case"
+			],
+			[
+				"case lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"title ca",
+				"Convert Case: Title Case"
+			],
+			[
+				"caps",
+				"Convert Case: Swap Case"
+			],
+			[
+				"caps ",
+				"Convert Case: Swap Case"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax ",
+				"Set Syntax: Markdown"
+			],
+			[
+				"synt fl",
+				"Set Syntax: Batch File"
+			],
+			[
+				"syntax htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"rev",
+				"File: Revert"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"title ",
+				"Convert Case: Title Case"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"e",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"snippet tex",
+				"Snippet: Turn selection into LaTeX environment"
+			],
+			[
+				"pgf",
+				"Snippet: pgfplot"
+			],
+			[
+				"snipp pg",
+				"Snippet: pgfplot"
+			],
+			[
+				"snippet pg",
+				"Snippet: pgfplot"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"ints",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet begin",
+				"Snippet: \\begin{}…\\end{}"
+			],
+			[
+				"snipp",
+				"Snippet: Itemize"
+			],
+			[
+				"late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"syntax late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Equation"
+			],
+			[
+				"snippet",
+				"Snippet: Split"
+			],
+			[
+				"table",
+				"Snippet: table"
+			],
+			[
+				"tabl",
+				"Snippet: Table"
+			],
+			[
+				"tabular",
+				"Snippet: Tabular"
+			],
+			[
+				"tab",
+				"Snippet: Tabular"
+			],
+			[
+				"beame",
+				"Set Syntax: LaTeX Beamer"
+			],
+			[
+				"synt",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"SET SYNTAX ",
+				"Set Syntax: C"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"ardu",
+				"Set Syntax: Arduino"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"temp",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"latex t",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"latex",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"latex ",
+				"LaTeXTools: Reconfigure and migrate settings"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/steven/Desktop/mX/src"
+	],
+	"file_history":
+	[
+		"/Users/steven/Desktop/tryDjango111/src/menus/urls.py",
+		"/Users/steven/Desktop/tryDjango111/src/muypicky/urls.py",
+		"/Users/steven/Desktop/tryDjango111/src/muypicky/settings/base.py",
+		"/Users/steven/Desktop/tryDjango111/src/profiles/views.py",
+		"/Users/steven/Desktop/tryDjango111/src/profiles/urls.py",
+		"/Users/steven/Desktop/tryDjango111/src/restaurants/urls.py",
+		"/Users/steven/Desktop/tryDjango111/src/menus/views.py",
+		"/Users/steven/Desktop/tryDjango111/src/restaurants/forms.py",
+		"/Users/steven/Desktop/tryDjango111/src/restaurants/views.py",
+		"/Users/steven/Desktop/tryDjango111/src/templates/snippets/nav.html",
+		"/Users/steven/Desktop/tryDjango111/src/templates/restaurants/restaurantlocation_list.html",
+		"/Users/steven/Desktop/tryDjango111/src/menus/models.py",
+		"/Users/steven/Desktop/tryDjango111/src/menus/templates/menus/item_detail.html",
+		"/Users/steven/Desktop/tryDjango111/src/menus/forms.py",
+		"/Users/steven/Desktop/tryDjango111/src/menus/templates/menus/form.html",
+		"/Users/steven/Desktop/tryDjango111/src/menus/templates/menus/item_create.html",
+		"/Users/steven/Desktop/tryDjango111/src/menus/admin.py",
+		"/Users/steven/Desktop/tryDjango111/src/templates/restaurants/form.html",
+		"/Users/steven/Desktop/tryDjango111/src/menus/templates/menus/item_list.html",
+		"/Users/steven/Desktop/tryDjango111/src/restaurants/models.py",
+		"/Users/steven/Desktop/tryDjango111/src/templates/base.html",
+		"/Users/steven/Desktop/tryDjango111/muypicky.sublime-project",
+		"/Users/steven/Desktop/tryDjango111/src/templates/registration/login.html",
+		"/Users/steven/Desktop/tryDjango111/src/restaurants/validators.py",
+		"/Users/steven/Desktop/tryDjango111/src/templates/restaurants/restaurantlocation_detail.html",
+		"/Users/steven/Desktop/tryDjango111/src/restaurants/utils.py",
+		"/Users/steven/Desktop/tryDjango111/lib/python3.6/site-packages/django/forms/forms.py",
+		"/Users/steven/Desktop/tryDjango111/src/db.sqlite3",
+		"/Users/steven/Desktop/tryDjango111/src/templates/restaurants/restaurant-list.html",
+		"/Users/steven/Desktop/tryDjango111/src/templates/home.html",
+		"/Users/steven/Desktop/tryDjango111/src/restaurants/admin.py",
+		"/Users/steven/Desktop/tryDjango111/src/templates/snippets/sidebar.html",
+		"/Users/steven/Desktop/tryDjango111/src/templates/snippets/js.html",
+		"/Users/steven/Desktop/tryDjango111/src/templates/about.html",
+		"/Users/steven/Desktop/tryDjango111/src/templates/contact.html",
+		"/Users/steven/Desktop/tryDjango111/src/templates/snippets/css.html",
+		"/Users/steven/Desktop/tryDjango111/bin/activate",
+		"/Users/steven/Desktop/tryDjango111/src/restaurants/migrations/terminal.glue",
+		"/Users/steven/Desktop/tryDjango111/terminal.glue",
+		"/Users/steven/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/steven/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/steven/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/steven/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/steven/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/steven/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/steven/Desktop/tryDjango111/lib/python3.6/site-packages/pip/_internal/req/req_file.py",
+		"/Users/steven/Desktop/tryDjango111/lib/python3.6/encodings/raw_unicode_escape.py",
+		"/Users/steven/Desktop/tryDjango111/README.md",
+		"/Users/steven/Desktop/tryDjango111/src/muypicky/settings/__init__.py",
+		"/Users/steven/Desktop/tryDjango111/src/muypicky/settings/production.py",
+		"/Users/steven/Desktop/tryDjango111/src/muypicky/settings/local.py",
+		"/Users/steven/Desktop/tryDjango111/src/muypicky/old_settings.py",
+		"/Users/steven/Downloads/SketchUp Pro 2017 17.0.18899 (x64) + Crack [SadeemPC]/Instructions !!!.txt",
+		"/Users/steven/Documents/PhD Applications/ETH/ETH.tex",
+		"/Volumes/Data-2/B. Eng/Year 4/Thesis/Latex Dissertation/Figures/cplambda.tex",
+		"/Users/steven/Documents/webScrape/test.py",
+		"/Users/steven/Desktop/Django/mx_backend_app/mx_backend/workorders/templates/workorders/workordersHome.html",
+		"/Users/steven/Desktop/Django/mx_backend_app/mx_backend/workorders/admin.py",
+		"/Users/steven/Desktop/Django/mx_backend_app/mx_backend/workorders/urls.py",
+		"/Users/steven/Desktop/Django/mx_backend_app/mx_backend/mx_backend/urls.py",
+		"/Users/steven/Desktop/Django/mx_backend_app/mx_backend/workorders/models.py",
+		"/Users/steven/Desktop/Django/mx_backend_app/mx_backend/workorders/views.py",
+		"/Users/steven/Desktop/Django/mx_backend_app/mx_backend/mx_backend/settings.py",
+		"/Users/steven/Downloads/Professional%20CV/cv.tex",
+		"/Users/steven/Desktop/Angular/angular4/ASO/src/app/get-workorders.service.ts",
+		"/Users/steven/Desktop/Angular/angular4/ASO/src/app/workorders-list/workorders-list.component.html",
+		"/Users/steven/Desktop/Angular/angular4/ASO/src/app/workorders-list/workorders-list.component.ts",
+		"/Users/steven/Desktop/Angular/angular4/ASO/src/index.html",
+		"/Users/steven/Desktop/Angular/angular4/ASO/src/app/app.component.ts",
+		"/Users/steven/Desktop/Angular/angular4/ASO/src/app/app.component.html",
+		"/Users/steven/Desktop/Angular/angular4/ASO/src/app/app.module.ts",
+		"/Users/steven/Desktop/Angular/angular4/ASO/src/app/sidebar/sidebar.component.html",
+		"/Users/steven/Desktop/Angular/angular4/ASO/src/app/home/home.component.html",
+		"/Users/steven/Desktop/Angular/angular4/ASO/src/app/sidebar/sidebar.component.css",
+		"/Users/steven/Desktop/Angular/angular4/ASO/src/app/app.component.css",
+		"/Users/steven/Desktop/Django/aso/workorders/templates/includes/navbar.html",
+		"/Users/steven/Desktop/Angular/angular4/components101/src/app/data.service.ts",
+		"/Users/steven/Desktop/Angular/angular4/components101/src/app/app.module.ts",
+		"/Users/steven/Desktop/Angular/angular4/components101/src/index.html",
+		"/Users/steven/Desktop/Angular/angular4/components101/src/app/app.component.ts",
+		"/Users/steven/Desktop/Angular/angular4/components101/src/app/app.component.html",
+		"/Users/steven/Desktop/Angular/angular4/components101/src/app/app.component.css",
+		"/Users/steven/Desktop/Angular/angular4/components101/src/app/my-new-component/my-new-component.component.html",
+		"/Users/steven/Desktop/Django/rest_tutorials/tutorial/snippets/urls.py",
+		"/Users/steven/Desktop/Django/rest_tutorials/tutorial/tutorial/urls.py",
+		"/Users/steven/Desktop/Django/rest_tutorials/tutorial/tutorial/settings.py",
+		"/Users/steven/Desktop/Django/rest_tutorials/tutorial/snippets/models.py",
+		"/Users/steven/Desktop/Django/rest_tutorials/tutorial/snippets/serializers.py",
+		"/Users/steven/Desktop/Django/rest_tutorials/tutorial/snippets/views.py",
+		"/Users/steven/Desktop/Django/login_test/login_test/login_test/forms.py",
+		"/Users/steven/Desktop/Django/django-rest-imageupload-example/django_rest_imageupload_backend/django_rest_imageupload_backend/urls.py",
+		"/Users/steven/Desktop/Django/django-rest-imageupload-example/django_rest_imageupload_backend/django_rest_imageupload_backend/settings.py",
+		"/Users/steven/Desktop/Django/django-rest-imageupload-example/django_rest_imageupload_backend/imageupload/apps.py",
+		"/Users/steven/Desktop/Django/django-rest-imageupload-example/django_rest_imageupload_backend/imageupload_frontend/static/js/app.js",
+		"/Users/steven/Desktop/Django/django-rest-imageupload-example/django_rest_imageupload_backend/imageupload/admin.py",
+		"/Users/steven/Desktop/Django/django-rest-imageupload-example/django_rest_imageupload_backend/imageupload_rest/viewsets.py",
+		"/Users/steven/Desktop/Django/django-rest-imageupload-example/django_rest_imageupload_backend/imageupload_rest/urls.py",
+		"/Users/steven/Desktop/Django/django-rest-imageupload-example/django_rest_imageupload_backend/imageupload/models.py",
+		"/Users/steven/Desktop/Django/trydjango19/src/trydjango19/settings.py",
+		"/Users/steven/Desktop/Django/trydjango19/src/templates/base.html",
+		"/Users/steven/Desktop/Django/trydjango19/src/static/css/base.css",
+		"/Users/steven/Desktop/Django/trydjango19/pip-selfcheck.json",
+		"/Users/steven/Desktop/Django/trydjango19/include/python3.6m/modsupport.h",
+		"/Users/steven/Desktop/Django/trydjango19/static_cdn/admin/img/gis/move_vertex_off.svg",
+		"/Users/steven/Desktop/Django/trydjango19/src/manage.py",
+		"/Users/steven/Desktop/Django/trydjango19/lib/python3.6/site-packages/django/contrib/admindocs/templates/admin_doc/view_index.html",
+		"/Users/steven/Desktop/Django/trydjango19/src/posts/views.py",
+		"/Users/steven/Desktop/Django/trydjango19/src/posts/forms.py",
+		"/Users/steven/Desktop/Django/trydjango19/include/python3.6m/fileobject.h",
+		"/Users/steven/Desktop/Django/trydjango19/src/trydjango19/urls.py",
+		"/Users/steven/Desktop/Django/trydjango19/lib/python3.6/base64.py",
+		"/Users/steven/Desktop/Django/trydjango19/lib/python3.6/site-packages/pytz/zoneinfo/America/Buenos_Aires",
+		"/Users/steven/Desktop/Django/trydjango19/include/python3.6m/bitset.h",
+		"/Users/steven/Desktop/Django/trydjango19/src/posts/urls.py",
+		"/Users/steven/Desktop/Django/trydjango19/src/templates/messages.html",
+		"/Users/steven/Desktop/Django/trydjango19/src/templates/post_detail.html",
+		"/Users/steven/Desktop/Django/trydjango19/src/templates/post_list.html",
+		"/Users/steven/Desktop/Django/trydjango19/src/templates/index.html",
+		"/Users/steven/Desktop/Django/trydjango19/src/posts/models.py",
+		"/Users/steven/Desktop/Django/trydjango19/lib/python3.6/site-packages/pytz/zoneinfo/America/Port_of_Spain",
+		"/Users/steven/Desktop/Django/trydjango19/src/templates/post_form.html",
+		"/Users/steven/Desktop/Django/trydjango19/lib/python3.6/encodings/unicode_escape.py",
+		"/Users/steven/Desktop/Django/trydjango19/src/crud.md",
+		"/Users/steven/Desktop/Django/trydjango19/src/posts/admin.py",
+		"/Users/steven/Desktop/Django/trydjango19/trydjango19.sublime-workspace",
+		"/Users/steven/Desktop/Django/trydjango19/untitled.sublime-project",
+		"/Users/steven/Desktop/Django/rest1/mysite/companies/admin.py",
+		"/Users/steven/Desktop/Django/rest1/mysite/mysite/settings.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 274.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 108.0
+	},
+	"output.latextools":
+	{
+		"height": 123.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mX.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"urls",
+				"src/menus/urls.py"
+			],
+			[
+				"url",
+				"src/restaurants/urls.py"
+			],
+			[
+				"admin",
+				"src/menus/admin.py"
+			],
+			[
+				"models",
+				"src/restaurants/models.py"
+			],
+			[
+				"",
+				"bin/activate"
+			],
+			[
+				"app.js",
+				"imageupload_frontend/static/js/app.js"
+			],
+			[
+				"model",
+				"src/posts/models.py"
+			],
+			[
+				"vie",
+				"src/posts/views.py"
+			],
+			[
+				"post_form",
+				"src/templates/post_form.html"
+			],
+			[
+				"forms",
+				"src/posts/forms.py"
+			],
+			[
+				"sett",
+				"src/trydjango19/settings.py"
+			],
+			[
+				"views",
+				"src/posts/views.py"
+			],
+			[
+				"form",
+				"src/posts/forms.py"
+			],
+			[
+				"post_li",
+				"src/templates/post_list.html"
+			],
+			[
+				"post_de",
+				"src/templates/post_detail.html"
+			],
+			[
+				"settin",
+				"src/trydjango19/settings.py"
+			],
+			[
+				"base",
+				"src/templates/base.html"
+			],
+			[
+				"post_d",
+				"src/templates/post_detail.html"
+			],
+			[
+				"urls.",
+				"src/trydjango19/urls.py"
+			],
+			[
+				"app.routing",
+				"src/app/app.routing.ts"
+			],
+			[
+				"cours",
+				"app/courses.component.ts"
+			],
+			[
+				"chap",
+				"Chapters/Chapter2_Background.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
